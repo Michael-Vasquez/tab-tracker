@@ -11,8 +11,8 @@ To install:
 - the tab tracker should be listed
 
 To use:
-select the extensions and select the tab tracker
-it will bring up a box with three selections
+- select the extensions and select the tab tracker
+- it will bring up a box with three selections
 - save input
 - save tab
 - delete all
